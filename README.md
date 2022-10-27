@@ -1,4 +1,4 @@
-# Project Name: Data-Analyst-project
+# Project Name: IMDB Movie Analysis
 
 ----
 # Project Objective: Problem Statement
