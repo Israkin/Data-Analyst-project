@@ -29,3 +29,6 @@ Bar charts and line charts as well as scattered plots were plotted where necessa
 
 ----
 # Findings and Recommendations
+For the first question, Over the years, it has been observed through exploration that the Animation, Adventure, Family and Fantasy account for the largest number of the most popular genre. 
+
+Therefore any movie that is based on these four genres has the ability to achieve a high popularity status. Producers are therefore advised to focus more on these genres.
