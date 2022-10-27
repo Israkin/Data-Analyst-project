@@ -8,6 +8,8 @@ as well as the kind of properties that are associated with movies that have high
 
 ----
 # Data sourcing
+The data set contains information about 10,000 movies and was collected from the Movie Database (TMDb), provided by Udacity.
+Although the link to this sourcing is from the IMDB rating website.
 
 
 
